@@ -1,3 +1,3 @@
 # SorteioProjeto
 
-App de sorteio desenvolvido durante o curso desenvolvimento android da Udemy.
+App de sorteio desenvolvido durante o curso desenvolvimento android da Udemy
